@@ -1,0 +1,3 @@
+*.png #Use wildcard to ignore all .png files
+
+receipts/ #Ignore the whole directory
